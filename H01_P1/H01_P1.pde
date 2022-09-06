@@ -1,1 +1,10 @@
 println("hoi"); 
+println("Dit is een tekst.");
+print("Dit is een");
+print(" stukje tekst");
+println(" achter elkaar geplakt!");
+println("Met 2 enters.");
+println("hmmmmmm");
+print("ik heb echt geen flauw idee wat ik hier wil schrijven.");
+println(" maar dit is wel genoeg");
+print("nou nu begint het wel soepel te gaan hoor.");
